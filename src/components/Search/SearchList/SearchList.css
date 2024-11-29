@@ -1,0 +1,16 @@
+.search-list-container {
+    height: 200px;
+    overflow: auto;
+  }
+  .search-list-container .search-items {
+    display: flex;
+    padding: 8px;
+    margin-bottom: 5px;
+    align-items: center;
+    
+  }
+  .search-list-container .search-items .title{
+     margin-left: 2px;
+      
+  }
+  

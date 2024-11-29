@@ -1,0 +1,19 @@
+.search-container{
+    width: 600px;
+    max-width: 100%;
+    color: white;
+    padding: 10px;
+    
+    }
+    .search-container .search-heading{
+        display: flex;
+        align-items: center;
+        font-size: 18px;
+        padding: 5px;
+        margin-bottom: 15px;
+    
+    }
+    .search-container img{
+        filter: invert(1);
+        margin-right: 5px;
+    }
